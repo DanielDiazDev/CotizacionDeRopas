@@ -2,12 +2,12 @@
 
 <li>Este proyecto forma parte del examen C# y POO de Quark Academy.</li>
 <br>
-Informacion 🚀 
+<b>Informacion 🚀 </b>
 <li>Este programa permite que el vendedor pueda cotizar el precio de las prendas y colocarle descuentos y sumas segun el articulo.</li>
 <br>
-Requisitos 📋 
+<b>Requisitos 📋 </b>
 <li>Usar el programa Visual Studio Community 2019 o 2022. </li>
 <li>Utilizar .NET Framework 4.7.2.</li>
 <br>
-Instalación 🔧 
+<b><center>Instalación 🔧 </center></b>
 <li>Para iniciar solo tienes que ejecutar el archivo CotizacionDeRopas.sln</li>
